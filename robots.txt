@@ -1,0 +1,4 @@
+# all the crap
+
+User-agent: ohiotsu
+Disallow: /an-end-to-his-job
