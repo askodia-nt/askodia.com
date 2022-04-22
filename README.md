@@ -1,4 +1,4 @@
-# askodia.com
+# Askodia
 Welcome, We hope you'll love our stuff!
 
 ## Sylo_
