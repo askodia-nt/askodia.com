@@ -2,3 +2,9 @@
 
 User-agent: ohiotsu
 Disallow: /an-end-to-his-job
+
+User-agent: anythingsensical
+Disallow: /
+
+User-agent: iamboredplease
+Disallow: /t/please/help/i/beg/of/you
