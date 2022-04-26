@@ -1,10 +1,3 @@
-# Askodia
-Welcome, We hope you'll love our stuff!
+# The Open Source Askodia dot Commercial Website on the Internet on Google Chrome, Safari, Chromium, Op
+Hey! Welcome to the worst site! It's opensource, press period and start editing. You do have to send us a pull request so.. Good luck!
 
-## Sylo_
-The _ is silent.
-[View.](https://www.youtube.com/c/Sylo_I)
-
-## Lop
-He tries. Alot.
-[Try clicking this.](https://www.youtube.com/channel/UCv2UmTyYCJPy7PWFVzYFpCg)
