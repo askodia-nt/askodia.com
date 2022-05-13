@@ -1,4 +1,4 @@
-# Askoida
+# Askodia
 
 ## Lop
 He does kinda try a bit, but not alot.
