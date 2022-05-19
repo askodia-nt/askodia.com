@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1d7ca3f2.css",
+    "main.js": "/static/js/main.c52fe3f5.js",
+    "static/js/787.02ad339d.chunk.js": "/static/js/787.02ad339d.chunk.js",
+    "static/media/ginto-nord.woff": "/static/media/ginto-nord.2134ecd15a2c9b9b7420.woff",
+    "static/media/ginto-nord.woff2": "/static/media/ginto-nord.071faf8a5cbf8feb4563.woff2",
+    "static/media/102761868.png": "/static/media/102761868.4e18d361fa695a5a38a2.png",
+    "index.html": "/index.html",
+    "main.1d7ca3f2.css.map": "/static/css/main.1d7ca3f2.css.map",
+    "main.c52fe3f5.js.map": "/static/js/main.c52fe3f5.js.map",
+    "787.02ad339d.chunk.js.map": "/static/js/787.02ad339d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d7ca3f2.css",
+    "static/js/main.c52fe3f5.js"
+  ]
+}

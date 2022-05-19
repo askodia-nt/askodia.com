@@ -1,10 +1,3 @@
-# all the crap
-
-User-agent: ohiotsu
-Disallow: /an-end-to-his-job
-
-User-agent: anythingsensical
-Disallow: /
-
-User-agent: iamboredplease
-Disallow: /t/please/help/i/beg/of/you
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
